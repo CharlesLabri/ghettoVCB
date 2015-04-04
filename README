@@ -2,6 +2,8 @@ Forked 4/3/2015:
 Modifier: Charles Labri
 Added support for ESXi V6.0.0 under the V5 release sanity checks.
 
+See https://communities.vmware.com/message/2493907#2493907 for details and discussion.
+
 Author: William Lam
 Website: http://www.virtuallyghetto.com/
 
